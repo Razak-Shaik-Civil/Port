@@ -107,7 +107,7 @@ align-items: center;
     justify-items: center;
     justify-content: center;
     
-    width: auto;
+    max-width: 90vw;
 
 }
 
@@ -120,6 +120,7 @@ img {
    justify-content: center;
    align-content: center;
    height:250px;
+     max-width: 90vw;
    border-radius: 5px;
    border-style: double;
    border: 2px;
@@ -197,6 +198,7 @@ gap: 50px;
 font-size: 20px;
 border-width: 5px;
 }
+
 
 
 
