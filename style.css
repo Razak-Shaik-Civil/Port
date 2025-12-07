@@ -11,7 +11,7 @@ body{
 #home{
     color:#ffffff;
     background-color:#554940;
-    height: 100vh;
+    height: 100px;
     width: 100vw;
     text-align: center;
     display: flex;
@@ -192,4 +192,5 @@ gap: 50px;
 font-size: 20px;
 border-width: 5px;
 }
+
 
